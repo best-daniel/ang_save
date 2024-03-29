@@ -21,6 +21,8 @@ Selenium- Python3 설치후 아래의 명령어 실행 권장
 ```
  url_collect.py --file backup.txt
 ```
+사용자이름/비밀번호 입력창이 나오는건.. 로그인을 해야 사용자 정보 수집이 가능합니다. \
+사이트 로그인 할떄만 사용하니, 걱정 하지 않으셔도 되요.\
 backup.txt 파일에 url 을 저장 합니다. 다른 능력 있으신분들의 크롤링을 사용 하셔도 됩니다.
 
 ### Download url page - 크롤링
