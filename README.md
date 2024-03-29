@@ -6,7 +6,6 @@
 
 ## 라이브러리
 - Selenium: https://selenium-python.readthedocs.io
-- Chrome Driver: https://googlechromelabs.github.io/chrome-for-testing/#stable
 
 ## 필수 설치
 Python - 다운로드/설치후 재부팅 권장
