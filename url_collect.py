@@ -201,6 +201,7 @@ def _main():
                     print("[INFO] Page: %d, URL: %s" % (page_num, elem_item.get_attribute("href")))
 
         fFile.write("\n".join(save_url_list)+"\n")
+        fFile.flush()
 
         page_num += 1
         if page_num == 5:
